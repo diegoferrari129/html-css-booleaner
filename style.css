@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin-left: 0.5%;
+}
+.logo{
+    height: 50px;
+    margin-top: 2.5%;
+}
