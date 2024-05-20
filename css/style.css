@@ -19,13 +19,18 @@ header{
     margin-top: 2.5%;
 }
 
-.title{
+.spazio{
     margin-top: 1%;
     margin-bottom: 1%;
 }
 
 .autore{
     color: rgb(0, 191, 255);
+}
+
+.tabella{
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 
 .footer-monitor{
