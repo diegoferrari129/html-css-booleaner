@@ -10,21 +10,25 @@ header{
     background-image: url(../img/pattern.png);
     background-size: 400px;
     height: 100px;
+    margin-bottom: 1%;
 }
 
 .logo{
     height: 50px;
     margin-top: 2.5%;
-}
-
-/* margin */
-.container, .logo{
     margin-left: 0.5%;
 }
 
-.spazio{
-    margin-top: 1%;
+/* margin */
+main, footer{
+    margin-left: 0.5%;
+    margin-right: 30%;
     margin-bottom: 1%;
+}
+
+.content-photos{
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 /* text */
@@ -50,7 +54,9 @@ header{
 }
 
 ul {
-    margin: 1%;
+    margin-left: 1%;
+    margin-bottom: 2%;
+    margin-top: 2%;
 }
 
 /* tabella */
@@ -65,6 +71,7 @@ th{
 
 table{
     border-collapse: collapse;
+    margin-bottom: 2%;
 }
 
 .text-tab{
@@ -82,6 +89,7 @@ table{
     background-repeat: no-repeat;
     color: white;
     padding: 0.5%;
+    margin-top: 1%;
 }
 
 .footer-graph{
