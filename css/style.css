@@ -8,7 +8,7 @@
 header{
     background-color: rgb(0, 155, 207);
     background-image: url(../img/pattern.png);
-    background-size: 300px;
+    background-size: 400px;
     height: 100px;
 }
 
@@ -17,6 +17,7 @@ header{
     margin-top: 2.5%;
 }
 
+/* margin */
 .container, .logo{
     margin-left: 0.5%;
 }
@@ -26,6 +27,7 @@ header{
     margin-bottom: 1%;
 }
 
+/* text */
 .text-color{
     color: lightgray;
 }
@@ -39,11 +41,25 @@ header{
     font-size: 12px;
 }
 
+.info-photos{
+    font-size: 13px;
+}
+
+.evidenziatore{
+    background-color: yellow;
+}
+
+ul {
+    margin: 1%;
+}
+
+/* tabella */
 .tabella{
     margin-top: 1%;
     margin-bottom: 1%;
 }
 
+/* footer */
 .footer-monitor{
     background-image: url(../img/monitor.jpg);
     height: 225px;
