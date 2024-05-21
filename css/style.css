@@ -54,9 +54,25 @@ ul {
 }
 
 /* tabella */
-.tabella{
-    margin-top: 1%;
-    margin-bottom: 1%;
+thead{
+    background-color: rgb(0, 191, 255);
+    color: white;
+}
+
+th{
+    text-align: left;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.text-tab{
+    width: 50%;
+}
+
+.tab-bg-color{
+    background-color: rgb(136, 224, 246);
 }
 
 /* footer */
